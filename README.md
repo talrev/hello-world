@@ -2,4 +2,4 @@
 My first repository
 Test
 A new line
-Adding new line to the master branch
+Fix Adding new line to the master branch
